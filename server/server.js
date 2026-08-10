@@ -19,7 +19,7 @@ connectDB();
 app.use(helmet());
 app.use(
   cors({
-    origin: ["http://localhost:5173", "https://eandHdev.github.io"],
+    origin: ["http://localhost:5173", "https://eandhdev.github.io"],
   }),
 );
 app.use(morgan("dev"));
