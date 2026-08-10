@@ -17,7 +17,11 @@ connectDB();
 
 // Middleware
 app.use(helmet());
-app.use(cors());
+app.use(
+  cors({
+    origin: ["http://localhost:5173", "https://eandHdev.github.io"],
+  }),
+);
 app.use(morgan("dev"));
 app.use(express.json());
 

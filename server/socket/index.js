@@ -4,7 +4,7 @@ const gameHandler = require("./gameHandler");
 module.exports = function initSocket(server) {
   const io = new Server(server, {
     cors: {
-      origin: "*", // tighten this when frontend URL is known
+      origin: ["http://localhost:5173", "https://eandHdev.github.io"],
       methods: ["GET", "POST"],
     },
   });

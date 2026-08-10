@@ -70,7 +70,7 @@ export default function Game() {
   // Fetch available letters on select_letter phase
   useEffect(() => {
     if (phase !== "select_letter" || !sessionId) return;
-    fetch(`http://localhost:5001/api/sessions/${sessionId}/letters`)
+    fetch(`${import.meta.env.VITE_API_URL}/api/sessions/${sessionId}/letters`)
       .then((r) => r.json())
       .then((data) => {
         if (data.success) setAvailableLetters(data.letters);
@@ -205,7 +205,7 @@ export default function Game() {
 
   async function handleRequestQuestion() {
     const res = await fetch(
-      `http://localhost:5001/api/sessions/${sessionId}/question`,
+      `${import.meta.env.VITE_API_URL}/api/sessions/${sessionId}/question`,
     );
     const data = await res.json();
     if (data.success) {
