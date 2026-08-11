@@ -34,6 +34,8 @@ export default function Game() {
   const [countdown, setCountdown] = useState(null);
   const [instantElim, setInstantElim] = useState(false);
   const [hasAskedFirst, setHasAskedFirst] = useState(false);
+  const [suddenDeathData, setSuddenDeathData] = useState(null);
+  const [suddenDeathResult, setSuddenDeathResult] = useState(null);
 
   const answerRef = useRef(null);
   const countdownRef = useRef(null);
@@ -54,6 +56,12 @@ export default function Game() {
         ...updates,
       }),
     );
+  }
+
+  function handleSuddenDeathSubmit() {
+    if (!answerInput.trim() || !currentQuestion || !isMyTurn) return;
+    socket.emit("submit_sudden_death", { answer: answerInput.trim() });
+    setIsMyTurn(false);
   }
 
   // Recover session state after a page refresh
@@ -153,6 +161,32 @@ export default function Game() {
       }
     });
 
+    socket.on("sudden_death", (data) => {
+      setPhase("sudden_death");
+      setLastResult(null);
+      setCurrentQuestion(null);
+      setThinkingPlayer(null);
+      setSuddenDeathData(data);
+    });
+
+    socket.on("sudden_death_question", (data) => {
+      setCurrentQuestion(data.question);
+      setAnswerInput("");
+      setIsMyTurn(true);
+      setPhase("sudden_death_question");
+    });
+
+    socket.on("sudden_death_result", (data) => {
+      setSuddenDeathResult(data);
+      setIsMyTurn(false);
+      setPhase("sudden_death_result");
+    });
+
+    socket.on("sudden_death_continue", (data) => {
+      setSuddenDeathData((prev) => ({ ...prev, message: data.message }));
+      setPhase("sudden_death");
+    });
+
     socket.on("round_over", (data) => {
       saveSessionProgress({
         currentRound: data.nextRound,
@@ -249,6 +283,10 @@ export default function Game() {
       socket.off("game_over");
       socket.off("lifeline_result");
       socket.off("connect");
+      socket.off("sudden_death");
+      socket.off("sudden_death_question");
+      socket.off("sudden_death_result");
+      socket.off("sudden_death_continue");
     };
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
@@ -767,6 +805,107 @@ export default function Game() {
               </button>
             );
           })()}
+        </div>
+      )}
+      {/* Phase: Sudden Death Announcement */}
+      {phase === "sudden_death" && suddenDeathData && (
+        <div style={s.card}>
+          <h3 style={{ ...s.cardTitle, color: "#ff6b6b" }}>⚡ Sudden Death</h3>
+          <p
+            style={{
+              color: "#fff",
+              textAlign: "center",
+              margin: 0,
+              fontWeight: 600,
+            }}
+          >
+            {suddenDeathData.message}
+          </p>
+          <p
+            style={{
+              color: "#aaa",
+              textAlign: "center",
+              margin: 0,
+              fontSize: "0.875rem",
+            }}
+          >
+            One question each. No money. First to answer correctly survives.
+          </p>
+          {thinkingPlayer && (
+            <div style={s.thinkingBanner}>
+              <span style={s.thinkingDots}>●●●</span>
+              <span style={{ color: "#aaa" }}>
+                {thinkingPlayer.name} is thinking…
+              </span>
+            </div>
+          )}
+        </div>
+      )}
+
+      {/* Phase: Sudden Death Question (human's turn) */}
+      {phase === "sudden_death_question" && currentQuestion && (
+        <div style={s.card}>
+          <h3 style={{ ...s.cardTitle, color: "#ff6b6b" }}>
+            ⚡ Sudden Death — Your Turn
+          </h3>
+          <p style={s.questionText}>{currentQuestion.text}</p>
+          <p style={s.hint}>
+            Answer must begin with{" "}
+            <strong style={{ color: "#f5c518" }}>{letter}</strong>
+          </p>
+          <div style={s.countdown}>
+            <span style={{ ...s.countdownNum, color: "#ff6b6b" }}>15s</span>
+          </div>
+          <div style={s.answerRow}>
+            <input
+              ref={answerRef}
+              style={s.input}
+              type="text"
+              placeholder={`${letter}…`}
+              value={answerInput}
+              onChange={(e) => setAnswerInput(e.target.value)}
+              onKeyDown={(e) => e.key === "Enter" && handleSuddenDeathSubmit()}
+              autoFocus
+            />
+            <button style={s.btnPrimary} onClick={handleSuddenDeathSubmit}>
+              Submit
+            </button>
+          </div>
+        </div>
+      )}
+
+      {/* Phase: Sudden Death Result */}
+      {phase === "sudden_death_result" && suddenDeathResult && (
+        <div style={s.card}>
+          <h3 style={{ ...s.cardTitle, color: "#ff6b6b" }}>
+            ⚡ Sudden Death Result
+          </h3>
+          <div
+            style={{
+              ...s.resultBanner,
+              background: suddenDeathResult.isCorrect ? "#0d2b0d" : "#2b0d0d",
+            }}
+          >
+            <p
+              style={{
+                ...s.resultText,
+                color: suddenDeathResult.isCorrect ? "#4caf50" : "#ff6b6b",
+              }}
+            >
+              {suddenDeathResult.playerName}:{" "}
+              {suddenDeathResult.isCorrect
+                ? "✓ Correct!"
+                : `✗ Wrong. Answer was: ${suddenDeathResult.correctAnswer}`}
+            </p>
+          </div>
+          {thinkingPlayer && (
+            <div style={s.thinkingBanner}>
+              <span style={s.thinkingDots}>●●●</span>
+              <span style={{ color: "#aaa" }}>
+                {thinkingPlayer.name} is thinking…
+              </span>
+            </div>
+          )}
         </div>
       )}
     </div>

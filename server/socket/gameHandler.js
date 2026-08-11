@@ -495,6 +495,147 @@ module.exports = function gameHandler(io, socket) {
     }
   });
 
+  async function runSuddenDeath(io, socket, sessionId, tiedPlayers, round) {
+    let session = await Session.findById(sessionId);
+    if (!session) return;
+
+    const config = AI_CONFIG[session.difficulty] || AI_CONFIG.medium;
+    let stillTied = [...tiedPlayers];
+
+    while (stillTied.length > 1) {
+      const results = {};
+
+      for (const player of stillTied) {
+        session = await Session.findById(sessionId);
+        if (!session) return;
+
+        const question = await fetchQuestion(session, null);
+        if (!question) break;
+
+        if (player.isHuman) {
+          // Emit sudden death question to human
+          socket.emit("sudden_death_question", {
+            question: { ...question, answer: undefined },
+            playerName: player.name,
+            tiedPlayers: stillTied.map((p) => p.name),
+          });
+
+          // Wait for human answer with 15 second timeout
+          const humanAnswer = await new Promise((resolve) => {
+            let answered = false;
+            const timer = setTimeout(() => {
+              if (answered) return;
+              answered = true;
+              socket.off("submit_sudden_death");
+              resolve({ answer: "", timedOut: true });
+            }, 15000);
+
+            socket.once("submit_sudden_death", ({ answer }) => {
+              if (answered) return;
+              answered = true;
+              clearTimeout(timer);
+              resolve({ answer, timedOut: false });
+            });
+          });
+
+          const submitted = humanAnswer.answer.trim().toUpperCase();
+          const correct = question.answer.trim().toUpperCase();
+          const roundLetter = session.rounds[round - 1]?.letter;
+          const wentOutside =
+            submitted.length > 0 && submitted[0] !== roundLetter;
+          const isCorrect = !wentOutside && submitted === correct;
+
+          results[player.playerId] = isCorrect;
+
+          io.to(sessionId).emit("sudden_death_result", {
+            playerId: player.playerId,
+            playerName: player.name,
+            isHuman: true,
+            isCorrect,
+            correctAnswer: isCorrect ? null : question.answer,
+          });
+        } else {
+          // AI sudden death turn
+          const thinkTime = Math.floor(
+            Math.random() * (config.maxThink - config.minThink) +
+              config.minThink,
+          );
+
+          io.to(sessionId).emit("ai_thinking", {
+            playerId: player.playerId,
+            name: player.name,
+            thinkTime,
+          });
+
+          await sleep(thinkTime);
+
+          const isCorrect = Math.random() < config.correctRate;
+          results[player.playerId] = isCorrect;
+
+          io.to(sessionId).emit("sudden_death_result", {
+            playerId: player.playerId,
+            playerName: player.name,
+            isHuman: false,
+            isCorrect,
+            correctAnswer: isCorrect ? null : question.answer,
+          });
+        }
+
+        await sleep(1000);
+      }
+
+      // Determine who answered correctly and who didn't
+      const correct = stillTied.filter((p) => results[p.playerId] === true);
+      const incorrect = stillTied.filter((p) => results[p.playerId] === false);
+
+      if (incorrect.length === 0 || correct.length === 0) {
+        // Everyone got it right or everyone got it wrong — go again
+        io.to(sessionId).emit("sudden_death_continue", {
+          message:
+            incorrect.length === 0
+              ? "Everyone answered correctly — another round!"
+              : "Nobody answered correctly — another round!",
+        });
+        continue;
+      }
+
+      // Eliminate the incorrect players — if still tied among incorrect, loop continues
+      if (incorrect.length === 1 || correct.length > 0) {
+        // Eliminate all incorrect players
+        stillTied = incorrect.length < stillTied.length ? incorrect : stillTied;
+        if (stillTied.length === 1 || correct.length >= 1) {
+          // Eliminate the incorrect ones
+          const toEliminate =
+            incorrect.length > 0 ? incorrect : stillTied.slice(1);
+          for (const loser of toEliminate) {
+            session = await Session.findById(sessionId);
+            const loserIdx = session.players.findIndex(
+              (p) => p.playerId === loser.playerId,
+            );
+            session.players[loserIdx].isEliminated = true;
+            session.players[loserIdx].eliminatedInRound = round;
+            session.rounds[round - 1].eliminatedId = loser.playerId;
+            session.markModified("players");
+            await session.save();
+          }
+
+          const nextRound = await advanceRound(io, sessionId, session);
+          session = await Session.findById(sessionId);
+
+          io.to(sessionId).emit("round_over", {
+            round,
+            nextRound,
+            eliminatedId: toEliminate[0].playerId,
+            eliminatedName: toEliminate.map((p) => p.name).join(" & "),
+            scores: getScores(session),
+          });
+          return;
+        }
+        stillTied = incorrect;
+      }
+    }
+  }
+
   // ── Round end logic ────────────────────────────────────────────────────────
   async function handleRoundEnd(io, socket, sessionId) {
     let session = await Session.findById(sessionId);
@@ -550,10 +691,14 @@ module.exports = function gameHandler(io, socket) {
         finalScores: getScores(session),
       });
     } else {
-      // Rounds 1 and 2 — eliminate lowest scorer
-      const lowest = getLowestScorer(session);
+      // Rounds 1 and 2 — eliminate lowest scorer, with sudden death on ties
+      const active = getActivePlayers(session);
+      const lowestScore = Math.min(...active.map((p) => p.score));
+      const tied = active.filter((p) => p.score === lowestScore);
 
-      if (lowest) {
+      if (tied.length === 1) {
+        // No tie — eliminate directly
+        const lowest = tied[0];
         const lowestIdx = session.players.findIndex(
           (p) => p.playerId === lowest.playerId,
         );
@@ -562,18 +707,35 @@ module.exports = function gameHandler(io, socket) {
         session.rounds[round - 1].eliminatedId = lowest.playerId;
         session.markModified("players");
         await session.save();
+
+        const nextRound = await advanceRound(io, sessionId, session);
+        session = await Session.findById(sessionId);
+
+        io.to(sessionId).emit("round_over", {
+          round,
+          nextRound,
+          eliminatedId: lowest.playerId,
+          eliminatedName: lowest.name,
+          scores: getScores(session),
+        });
+      } else {
+        // Tie — trigger sudden death
+        session.markModified("players");
+        await session.save();
+
+        io.to(sessionId).emit("sudden_death", {
+          round,
+          tiedPlayers: tied.map((p) => ({
+            playerId: p.playerId,
+            name: p.name,
+            isHuman: p.isHuman,
+            score: p.score,
+          })),
+          message: `${tied.map((p) => p.name).join(", ")} are tied at $${lowestScore} — Sudden Death!`,
+        });
+
+        await runSuddenDeath(io, socket, sessionId, tied, round);
       }
-
-      const nextRound = await advanceRound(io, sessionId, session);
-      session = await Session.findById(sessionId);
-
-      io.to(sessionId).emit("round_over", {
-        round,
-        nextRound,
-        eliminatedId: lowest?.playerId,
-        eliminatedName: lowest?.name,
-        scores: getScores(session),
-      });
     }
   }
 
