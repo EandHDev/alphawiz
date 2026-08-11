@@ -657,7 +657,10 @@ export default function Game() {
       {/* Phase: Round Over */}
       {phase === "round_over" && roundOverData && (
         <div style={s.card}>
-          <h3 style={s.cardTitle}>Round {roundOverData.round} Complete</h3>
+          <h3 style={s.cardTitle}>
+            Round {roundOverData.round} — {ROUND_NAMES[roundOverData.round]}{" "}
+            Complete
+          </h3>
 
           {roundOverData.eliminatedName && (
             <p
