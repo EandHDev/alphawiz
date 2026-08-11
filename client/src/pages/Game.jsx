@@ -43,9 +43,22 @@ export default function Game() {
   const round4Letters = state.round4Letters || [];
   const activeLetters = round === 4 ? round4Letters : letter ? [letter] : [];
 
+  function saveSessionProgress(updates = {}) {
+    const saved = sessionStorage.getItem("alphawiz_session");
+    if (!saved) return;
+    const parsed = JSON.parse(saved);
+    sessionStorage.setItem(
+      "alphawiz_session",
+      JSON.stringify({
+        ...parsed,
+        ...updates,
+      }),
+    );
+  }
+
   // Recover session state after a page refresh
   useEffect(() => {
-    if (state.sessionId) return; // already have state
+    if (state.sessionId) return;
 
     const saved = sessionStorage.getItem("alphawiz_session");
     if (!saved) {
@@ -54,7 +67,14 @@ export default function Game() {
     }
 
     const parsed = JSON.parse(saved);
+
+    // Restore full session state including progress
     dispatch({ type: "SET_SESSION", payload: parsed });
+
+    // Restore scores if saved
+    if (parsed.scores) {
+      setScores(parsed.scores);
+    }
 
     // Reconnect socket and rejoin game room
     if (!socket.connected) socket.connect();
@@ -113,6 +133,7 @@ export default function Game() {
     });
 
     socket.on("answer_result", (data) => {
+      saveSessionProgress({ scores: data.scores });
       setThinkingPlayer(null);
       setLastResult(data);
       setScores(data.scores);
@@ -133,6 +154,11 @@ export default function Game() {
     });
 
     socket.on("round_over", (data) => {
+      saveSessionProgress({
+        currentRound: data.nextRound,
+        round4Letters: data.round4Letters || [],
+        scores: data.scores,
+      });
       setHasAskedFirst(false);
       setRoundOverData(data);
       setCurrentQuestion(null);
