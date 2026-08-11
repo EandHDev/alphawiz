@@ -166,6 +166,7 @@ export default function Game() {
       setIsMyTurn(false);
       setThinkingPlayer(null);
       setInstantElim(false);
+      setScores(data.scores);
 
       dispatch({
         type: "ROUND_OVER",
