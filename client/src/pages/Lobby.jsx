@@ -82,8 +82,6 @@ export default function Lobby() {
   return (
     <div style={s.container}>
       <h1 style={s.title}>AlphawiZ</h1>
-      <br></br>
-      <br></br>
       <p style={s.subtitle}>The Alphabetical Wizard Quiz</p>
 
       <div style={s.card}>
@@ -146,6 +144,7 @@ const s = {
     fontWeight: 700,
     color: "#f5c518",
     margin: 0,
+    marginBottom: "1rem",
     letterSpacing: "0.05em",
   },
   subtitle: { color: "#aaa", marginBottom: "2rem", fontSize: "1rem" },
