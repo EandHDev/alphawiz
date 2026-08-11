@@ -165,6 +165,52 @@ export default function Game() {
       setLifelineHint(data.hint);
       dispatch({ type: "LIFELINE_USED" });
     });
+    socket.on("connect", async () => {
+      if (!sessionId) return;
+
+      // Rejoin the game room
+      socket.emit("join_game", { sessionId });
+
+      // Fetch current session state from REST to resync UI
+      try {
+        const res = await fetch(
+          `${import.meta.env.VITE_API_URL}/api/sessions/${sessionId}`,
+        );
+        const data = await res.json();
+        if (!data.success) return;
+
+        const session = data.session;
+        const currentRound = session.currentRound;
+        const roundData = session.rounds[currentRound - 1];
+        const human = session.players.find((p) => p.isHuman);
+
+        // Update scores
+        const freshScores = session.players.map((p) => ({
+          playerId: p.playerId,
+          name: p.name,
+          score: p.score,
+          isHuman: p.isHuman,
+          isEliminated: p.isEliminated,
+        }));
+        setScores(freshScores);
+
+        // Update round and letter
+        dispatch({
+          type: "LETTER_SELECTED",
+          payload: { round: currentRound, letter: roundData?.letter },
+        });
+
+        // If human is not eliminated, signal it's their turn
+        if (human && !human.isEliminated && session.status === "active") {
+          setIsMyTurn(true);
+          setPhase("question");
+          setCurrentQuestion(null);
+          setThinkingPlayer(null);
+        }
+      } catch (err) {
+        console.error("Reconnection sync failed:", err);
+      }
+    });
 
     // eslint-disable-next-line react-hooks/exhaustive-deps
     return () => {
@@ -175,6 +221,7 @@ export default function Game() {
       socket.off("round_over");
       socket.off("game_over");
       socket.off("lifeline_result");
+      socket.off("connect");
     };
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
