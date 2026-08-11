@@ -81,7 +81,7 @@ export default function Lobby() {
 
   return (
     <div style={s.container}>
-      <h1 style={s.title}>AlphaWiz</h1>
+      <h1 style={s.title}>AlphawiZ</h1>
       <br></br>
       <br></br>
       <p style={s.subtitle}>The Alphabetical Wizard Quiz</p>
