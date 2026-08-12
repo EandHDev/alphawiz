@@ -739,6 +739,14 @@ module.exports = function gameHandler(io, socket) {
     }
   }
 
+  socket.on("trigger_round_end", async ({ sessionId }) => {
+    try {
+      await handleRoundEnd(io, socket, sessionId);
+    } catch (err) {
+      socket.emit("error", { message: err.message });
+    }
+  });
+
   // ── end_game (manual fallback) ─────────────────────────────────────────────
   socket.on("end_game", async ({ sessionId }) => {
     try {

@@ -51,33 +51,22 @@ function getValidLetters(answer) {
 }
 
 function mapToSchema(item, categoryId) {
-  const text = decode(item.question);
+  const text   = decode(item.question);
   const answer = decode(item.correct_answer);
-  const validLetters = getValidLetters(answer);
 
-  // Skip questions whose answers only make sense in multiple choice context
+  // Skip answers that only make sense in multiple choice context
   const nonsenseAnswers = [
-    "all of the above",
-    "none of the above",
-    "both a and b",
-    "both b and c",
+    'all of the above',
+    'none of the above',
+    'both a and b',
+    'both b and c',
   ];
   if (nonsenseAnswers.includes(answer.toLowerCase())) return null;
 
   const validLetters = getValidLetters(answer);
   if (!validLetters) return null;
 
-  return {
-    text,
-    answer,
-    validLetters,
-    round: DIFFICULTY_TO_ROUND[item.difficulty] ?? 2,
-    category: CATEGORY_MAP[categoryId] ?? "general",
-    source: "opentdb",
-    status: "active",
-    submittedBy: null,
-    stats: { timesUsed: 0, timesCorrect: 0, timesWrong: 0, successRate: 0 },
-  };
+  return { ... };
 }
 
 async function requestToken() {

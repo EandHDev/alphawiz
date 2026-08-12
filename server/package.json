@@ -6,6 +6,7 @@
   "scripts": {
     "start": "node server.js",
     "dev": "nodemon server.js",
+    "cleanup": "node seed/cleanup.js",
     "seed": "node seed/seed.js"
   },
   "keywords": [],

@@ -327,7 +327,7 @@ export default function Game() {
       setLifelineHint(null);
       setHasAskedFirst(true);
     } else {
-      setPhase("round_over");
+      socket.emit("trigger_round_end", { sessionId });
     }
   }
 
