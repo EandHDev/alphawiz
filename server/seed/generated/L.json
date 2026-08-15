@@ -1,0 +1,2418 @@
+[
+  {
+    "text": "Which Renaissance artist painted the Mona Lisa?",
+    "answer": "Leonardo da Vinci",
+    "validLetters": ["L"],
+    "round": 1,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "Who was the US President assassinated in 1865?",
+    "answer": "Abraham Lincoln",
+    "validLetters": ["L"],
+    "round": 1,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "Which French king became known as the Sun King?",
+    "answer": "Louis XIV",
+    "validLetters": ["L"],
+    "round": 1,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "Which two explorers led the famous expedition across America from 1804 to 1806?",
+    "answer": "Lewis and Clark",
+    "validLetters": ["L"],
+    "round": 1,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "Which American president was assassinated in 1865?",
+    "answer": "Lincoln",
+    "validLetters": ["L"],
+    "round": 1,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What is the capital of England?",
+    "answer": "London",
+    "validLetters": ["L"],
+    "round": 1,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "Which French king was executed during the French Revolution?",
+    "answer": "Louis XVI",
+    "validLetters": ["L"],
+    "round": 1,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What famous Italian tower is known for tilting to one side?",
+    "answer": "Leaning Tower of Pisa",
+    "validLetters": ["L"],
+    "round": 1,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What international organization was created after World War One but failed to prevent World War Two?",
+    "answer": "League of Nations",
+    "validLetters": ["L"],
+    "round": 1,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "Which Scottish missionary and explorer famously searched for the source of the Nile River?",
+    "answer": "Livingstone",
+    "validLetters": ["L"],
+    "round": 1,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What ancient language was spoken by the Romans?",
+    "answer": "Latin",
+    "validLetters": ["L"],
+    "round": 1,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What term describes an important historical building or place?",
+    "answer": "Landmark",
+    "validLetters": ["L"],
+    "round": 1,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What was a soldier in the elite military units of ancient Rome?",
+    "answer": "Legionnaire",
+    "validLetters": ["L"],
+    "round": 1,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "Which UK political party has traditionally represented trade unions and working-class interests?",
+    "answer": "Labour Party",
+    "validLetters": ["L"],
+    "round": 1,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What is the name of the centrist political party in the UK formed from the merger of the Liberal Party and the SDP?",
+    "answer": "Liberal Democrats",
+    "validLetters": ["L"],
+    "round": 1,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "Which Brazilian president served two non-consecutive terms and returned to office in 2023?",
+    "answer": "Lula",
+    "validLetters": ["L"],
+    "round": 1,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What is the smallest country by area in the European Union?",
+    "answer": "Luxembourg",
+    "validLetters": ["L"],
+    "round": 1,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What is the name of the lower house of the Indian Parliament?",
+    "answer": "Legislative Assembly",
+    "validLetters": ["L"],
+    "round": 1,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "Who was the shortest-serving Prime Minister of the United Kingdom, lasting only 49 days in 2022?",
+    "answer": "Liz Truss",
+    "validLetters": ["L"],
+    "round": 1,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What historical Australian political party merged with the National Party to form the Liberal Party in 1931?",
+    "answer": "Liberal Party",
+    "validLetters": ["L"],
+    "round": 1,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "Which German-speaking Alpine country is sandwiched between Austria and Switzerland?",
+    "answer": "Liechtenstein",
+    "validLetters": ["L"],
+    "round": 1,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What is the capital city of Portugal?",
+    "answer": "Lisbon",
+    "validLetters": ["L"],
+    "round": 1,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "Which Scottish lake is famous for its legendary monster?",
+    "answer": "Loch Ness",
+    "validLetters": ["L"],
+    "round": 1,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What is the largest country in North Africa?",
+    "answer": "Libya",
+    "validLetters": ["L"],
+    "round": 1,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What is the capital of Peru?",
+    "answer": "Lima",
+    "validLetters": ["L"],
+    "round": 1,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "Which river is the longest in France?",
+    "answer": "Loire River",
+    "validLetters": ["L"],
+    "round": 1,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What is the only African country completely surrounded by South Africa?",
+    "answer": "Lesotho",
+    "validLetters": ["L"],
+    "round": 1,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What is the largest of the Great Lakes?",
+    "answer": "Lake Superior",
+    "validLetters": ["L"],
+    "round": 1,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What is the capital of Thailand's western neighbour?",
+    "answer": "Laos",
+    "validLetters": ["L"],
+    "round": 1,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "Which Middle Eastern country has its capital in Beirut?",
+    "answer": "Lebanon",
+    "validLetters": ["L"],
+    "round": 1,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What is the deepest freshwater lake in the world?",
+    "answer": "Lake Baikal",
+    "validLetters": ["L"],
+    "round": 1,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "Which organs in your body are responsible for taking in oxygen when you breathe?",
+    "answer": "Lungs",
+    "validLetters": ["L"],
+    "round": 1,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "Which French scientist discovered that microorganisms cause disease?",
+    "answer": "Louis Pasteur",
+    "validLetters": ["L"],
+    "round": 1,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What is the distance that light travels in one year through space called?",
+    "answer": "Light year",
+    "validLetters": ["L"],
+    "round": 1,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What device uses a concentrated beam of light to cut through materials?",
+    "answer": "Laser",
+    "validLetters": ["L"],
+    "round": 1,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "Which soft, silvery metal is used in batteries and is element number 3 on the periodic table?",
+    "answer": "Lithium",
+    "validLetters": ["L"],
+    "round": 1,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "Which Dutch scientist invented the microscope and was the first to see bacteria?",
+    "answer": "Leeuwenhoek",
+    "validLetters": ["L"],
+    "round": 1,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "Which Swedish naturalist created the modern system for classifying living organisms?",
+    "answer": "Linnaeus",
+    "validLetters": ["L"],
+    "round": 1,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What device did Thomas Edison invent that produces light using electricity?",
+    "answer": "Lightbulb",
+    "validLetters": ["L"],
+    "round": 1,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What type of molecules found in foods like butter and oil are used by your body for energy and cell structure?",
+    "answer": "Lipids",
+    "validLetters": ["L"],
+    "round": 1,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "Which French chemist discovered oxygen and is known as the father of modern chemistry?",
+    "answer": "Lavoisier",
+    "validLetters": ["L"],
+    "round": 1,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What is the part of your throat that produces sound and contains your vocal cords?",
+    "answer": "Larynx",
+    "validLetters": ["L"],
+    "round": 1,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What astronomical event occurs when the Earth passes between the Sun and Moon, casting Earth's shadow on the Moon?",
+    "answer": "Lunar eclipse",
+    "validLetters": ["L"],
+    "round": 1,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "Which Argentine footballer has won the most Ballon d'Or awards in history?",
+    "answer": "Lionel Messi",
+    "validLetters": ["L"],
+    "round": 1,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What racquet sport is played on grass, clay, or hard courts?",
+    "answer": "Lawn Tennis",
+    "validLetters": ["L"],
+    "round": 1,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "Which Australian tennis player won the US Open in 2001 and 2002?",
+    "answer": "Leyton Hewitt",
+    "validLetters": ["L"],
+    "round": 1,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "In athletics, what field event involves sprinting down a runway and jumping as far as possible?",
+    "answer": "Long Jump",
+    "validLetters": ["L"],
+    "round": 1,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "Which NBA player has won four championships with three different teams?",
+    "answer": "LeBron James",
+    "validLetters": ["L"],
+    "round": 1,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What Winter Olympic sport involves racing down an icy track while lying on your back?",
+    "answer": "Luge",
+    "validLetters": ["L"],
+    "round": 1,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "Which American cyclist won seven Tour de France titles between 1999 and 2005?",
+    "answer": "Lance Armstrong",
+    "validLetters": ["L"],
+    "round": 1,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What type of material is traditionally used to cover a cricket ball?",
+    "answer": "Leather Ball",
+    "validLetters": ["L"],
+    "round": 1,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What ancient Minoan script was deciphered by Michael Ventris in 1952?",
+    "answer": "Linear B",
+    "validLetters": ["L"],
+    "round": 2,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What was the Soviet city of St. Petersburg renamed as during World War II?",
+    "answer": "Leningrad",
+    "validLetters": ["L"],
+    "round": 2,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "Which Spartan king died defending the pass at Thermopylae in 480 BC?",
+    "answer": "Leonidas",
+    "validLetters": ["L"],
+    "round": 2,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What name was given to English textile workers who smashed machinery during the Industrial Revolution?",
+    "answer": "Luddites",
+    "validLetters": ["L"],
+    "round": 2,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "Which German monk initiated the Protestant Reformation with his 95 Theses?",
+    "answer": "Luther",
+    "validLetters": ["L"],
+    "round": 2,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What was the year-long military retreat undertaken by the Chinese Communist Party in 1934-35?",
+    "answer": "Long March",
+    "validLetters": ["L"],
+    "round": 2,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "In which famous Paleolithic cave in southwestern France were hand stencils and animal paintings discovered?",
+    "answer": "Lascaux",
+    "validLetters": ["L"],
+    "round": 2,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What 1571 naval battle resulted in the Christian coalition's decisive victory over the Ottoman Empire?",
+    "answer": "Lepanto",
+    "validLetters": ["L"],
+    "round": 2,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "Which 1648 treaty is considered the foundation of the modern state system in Europe?",
+    "answer": "Lasting Peace of Westphalia",
+    "validLetters": ["L"],
+    "round": 2,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "Which Roman historian wrote the monumental work 'Ab Urbe Condita'?",
+    "answer": "Livy",
+    "validLetters": ["L"],
+    "round": 2,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "Who was the Soviet leader during the period of stagnation from 1964 to 1982?",
+    "answer": "Leonid Brezhnev",
+    "validLetters": ["L"],
+    "round": 2,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What is the name of the lower house of the Indian Parliament?",
+    "answer": "Lok Sabha",
+    "validLetters": ["L"],
+    "round": 2,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "Who served as the first President of the Italian Republic from 1948 to 1955?",
+    "answer": "Luigi Einaudi",
+    "validLetters": ["L"],
+    "round": 2,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "Who was the Polish Solidarity movement leader who became President of Poland in 1990?",
+    "answer": "Lech Wałęsa",
+    "validLetters": ["L"],
+    "round": 2,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What 2007 treaty reformed the functioning of the European Union and increased the powers of the European Parliament?",
+    "answer": "Lisbon Treaty",
+    "validLetters": ["L"],
+    "round": 2,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "Who served as President of Brazil for two non-consecutive terms, first from 2003 to 2010?",
+    "answer": "Lula da Silva",
+    "validLetters": ["L"],
+    "round": 2,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "Which 19th-century British Prime Minister served three non-consecutive terms and was known as 'Pam'?",
+    "answer": "Lord Palmerston",
+    "validLetters": ["L"],
+    "round": 2,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What political ideology emphasizes individual rights, limited government, and free markets?",
+    "answer": "Liberalism",
+    "validLetters": ["L"],
+    "round": 2,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What is the largest lake in Africa by surface area?",
+    "answer": "Lake Victoria",
+    "validLetters": ["L"],
+    "round": 2,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "Which Indonesian island lies east of Bali and is known for its beaches and volcanoes?",
+    "answer": "Lombok",
+    "validLetters": ["L"],
+    "round": 2,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What is the largest island in the Philippines?",
+    "answer": "Luzon",
+    "validLetters": ["L"],
+    "round": 2,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What river forms much of the border between South Africa and Botswana?",
+    "answer": "Limpopo River",
+    "validLetters": ["L"],
+    "round": 2,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "In which US state would you find the city famous for its casinos and the Strip?",
+    "answer": "Las Vegas",
+    "validLetters": ["L"],
+    "round": 2,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What organic acid is produced in muscles during intense anaerobic exercise?",
+    "answer": "Lactic acid",
+    "validLetters": ["L"],
+    "round": 2,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What is the energy required to change a substance's state without changing its temperature called?",
+    "answer": "Latent heat",
+    "validLetters": ["L"],
+    "round": 2,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What is the general name for fats and fatty substances found in living organisms?",
+    "answer": "Lipid",
+    "validLetters": ["L"],
+    "round": 2,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What unit of distance is defined as the distance light travels in one year through a vacuum?",
+    "answer": "Light-year",
+    "validLetters": ["L"],
+    "round": 2,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What tick-borne bacterial disease is characterized by a bullseye rash?",
+    "answer": "Lyme disease",
+    "validLetters": ["L"],
+    "round": 2,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What is molten rock called when it emerges from a volcano?",
+    "answer": "Lava",
+    "validLetters": ["L"],
+    "round": 2,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What is the scientific name for a white blood cell?",
+    "answer": "Leukocyte",
+    "validLetters": ["L"],
+    "round": 2,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What bean-shaped organ filters lymphatic fluid and traps pathogens?",
+    "answer": "Lymph node",
+    "validLetters": ["L"],
+    "round": 2,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What is the magnetic force exerted on a moving charged particle in a magnetic field called?",
+    "answer": "Lorentz force",
+    "validLetters": ["L"],
+    "round": 2,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What astronomical term describes the total amount of energy a star emits per unit time?",
+    "answer": "Luminosity",
+    "validLetters": ["L"],
+    "round": 2,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "Which Italian football club won the Serie A title in 1974 and play their home matches at the Stadio Olimpico in Rome?",
+    "answer": "Lazio",
+    "validLetters": ["L"],
+    "round": 2,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "Which British sprinter won gold in the 100 metres at the 1992 Barcelona Olympics?",
+    "answer": "Linford Christie",
+    "validLetters": ["L"],
+    "round": 2,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What is the home ground of Marylebone Cricket Club and one of the most famous cricket venues in England?",
+    "answer": "Lord's Cricket Ground",
+    "validLetters": ["L"],
+    "round": 2,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "Which French racing team competed in Formula One between 1976 and 1994, and is notable for developing the active suspension system?",
+    "answer": "Ligier",
+    "validLetters": ["L"],
+    "round": 2,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "Which English football club plays at Brisbane Road in East London and competes in the English Football League?",
+    "answer": "Leyton Orient",
+    "validLetters": ["L"],
+    "round": 2,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "Which Australian tennis player won the Grand Slam singles title four times and the Australian Open twice in the 1960s?",
+    "answer": "Laver, Rod",
+    "validLetters": ["L"],
+    "round": 2,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "Who created and starred in the HBO series 'Girls' which ran from 2012 to 2017?",
+    "answer": "Lena Dunham",
+    "validLetters": ["L"],
+    "round": 2,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "Who was the first actor to win an Academy Award, Golden Globe, Emmy, and Tony Award?",
+    "answer": "Laurence Olivier",
+    "validLetters": ["L"],
+    "round": 2,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "Which Canadian singer-songwriter wrote the anthem 'Hallelujah'?",
+    "answer": "Leonard Cohen",
+    "validLetters": ["L"],
+    "round": 2,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "Which Danish filmmaker directed the provocative film 'Dogville' starring Nicole Kidman?",
+    "answer": "Lars von Trier",
+    "validLetters": ["L"],
+    "round": 2,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "Who created and starred in the hit musical 'Hamilton' that debuted on Broadway in 2015?",
+    "answer": "Lin-Manuel Miranda",
+    "validLetters": ["L"],
+    "round": 2,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "Which New Zealand singer-songwriter born Ella Marija Lani Yelich-O'Connor achieved global fame with 'Green Light'?",
+    "answer": "Lorde",
+    "validLetters": ["L"],
+    "round": 2,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "In Greek mythology, which river's waters cause drinkers to forget their past?",
+    "answer": "Lethe",
+    "validLetters": ["L"],
+    "round": 2,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "Which Arcadian king was transformed into a wolf as punishment for serving human flesh to Zeus?",
+    "answer": "Lycaon",
+    "validLetters": ["L"],
+    "round": 2,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "In German folklore, which siren lures sailors to their doom with her enchanting song on the Rhine?",
+    "answer": "Lorelei",
+    "validLetters": ["L"],
+    "round": 2,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What lemurs are primates native to Madagascar?",
+    "answer": "Lemurs",
+    "validLetters": ["L"],
+    "round": 2,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What series of twelve tasks did Heracles undertake as penance for killing his family?",
+    "answer": "Labors of Hercules",
+    "validLetters": ["L"],
+    "round": 2,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "Which Chinese philosophical system emphasizing strict laws, harsh punishments, and absolute state power dominated during the Qin Dynasty?",
+    "answer": "Legalism",
+    "validLetters": ["L"],
+    "round": 3,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What name is given to the highly skilled but often brutally violent mercenary soldiers who fought primarily for German princes during the 16th and 17th centuries?",
+    "answer": "Landsknechts",
+    "validLetters": ["L"],
+    "round": 3,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What French military term describes the mass conscription and mobilization of an entire nation's population for warfare, first systematically implemented during the Revolutionary Wars?",
+    "answer": "Levée en masse",
+    "validLetters": ["L"],
+    "round": 3,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "Which Roman historian and antiquarian of the 1st century BCE was known for his critical examination of early Roman history and is primarily known through fragments preserved by Livy?",
+    "answer": "Licinius Macer",
+    "validLetters": ["L"],
+    "round": 3,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What medieval military-monastic order, also known as the Teutonic Knights of the Sword, conquered and ruled territories in the Baltic from the 13th century?",
+    "answer": "Livonian Order",
+    "validLetters": ["L"],
+    "round": 3,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "Which Neolithic culture flourished in the Yangtze River Delta around 3400-2250 BCE and is known for its jade artifacts and rammed-earth fortifications?",
+    "answer": "Longshan culture",
+    "validLetters": ["L"],
+    "round": 3,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What was the Roman imperial standard, a Chi-Rho symbol on a staff adopted by Constantine I and used as a military emblem?",
+    "answer": "Labarum",
+    "validLetters": ["L"],
+    "round": 3,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What is the name of the Frankish law code, first written down in the 6th century, that established different wergeld values based on social status and ethnicity?",
+    "answer": "Lex Salica",
+    "validLetters": ["L"],
+    "round": 3,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "Which advanced Bronze Age civilization flourished in the Yangtze River Delta from around 5500-4500 BCE and is known for its sophisticated rice agriculture and jade carving?",
+    "answer": "Liangzhu civilization",
+    "validLetters": ["L"],
+    "round": 3,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "Benjamin Netanyahu's political party, which he led to victory in the 2009 Israeli elections, is called what?",
+    "answer": "Likud Party",
+    "validLetters": ["L"],
+    "round": 3,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What 1929 agreement between the Holy See and Mussolini's Italy established Vatican City as an independent state?",
+    "answer": "Lateral Agreement",
+    "validLetters": ["L"],
+    "round": 3,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "Lord Justice Leveson chaired an inquiry into what following the News of the World phone-hacking scandal?",
+    "answer": "Leveson Inquiry",
+    "validLetters": ["L"],
+    "round": 3,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "Andrés Manuel López Obrador became the president of which country in 2018?",
+    "answer": "López Obrador",
+    "validLetters": ["L"],
+    "round": 3,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What series of 1925 agreements guaranteed the territorial integrity of Western European borders after World War I?",
+    "answer": "Locarno Treaties",
+    "validLetters": ["L"],
+    "round": 3,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "The assassination of Congo's independence leader Patrice in 1961 prompted which international investigation?",
+    "answer": "Lumumba Assassination",
+    "validLetters": ["L"],
+    "round": 3,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "Which Japanese political party, founded in 1983, has been the third-largest in the Diet and advocates centrist policies?",
+    "answer": "Liberal Democratic Party Japan",
+    "validLetters": ["L"],
+    "round": 3,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What weighted price index, named after its creator, uses the basket of goods from the base period as its weighting system?",
+    "answer": "Laspeyres Index",
+    "validLetters": ["L"],
+    "round": 3,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What 1966 agreement allowed France to veto decisions in the European Economic Community by claiming vital national interests?",
+    "answer": "Luxembourg Compromise",
+    "validLetters": ["L"],
+    "round": 3,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "Which sea forms the northwestern boundary of the Mediterranean and lies between France, Monaco, and Italy?",
+    "answer": "Ligurian Sea",
+    "validLetters": ["L"],
+    "round": 3,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What strait separates the Indonesian islands of Bali and Lombok and connects the Bali Sea to the Indian Ocean?",
+    "answer": "Lombok Strait",
+    "validLetters": ["L"],
+    "round": 3,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "By what former name were the Maldive Islands known when they were a British protectorate and crown colony?",
+    "answer": "Laccadive Islands",
+    "validLetters": ["L"],
+    "round": 3,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What region of Spain, comprising the former kingdoms of León and Castile, gives its name to the RMS ship sunk by a German U-boat in 1915?",
+    "answer": "Lusitania",
+    "validLetters": ["L"],
+    "round": 3,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "Which structural basin beneath the eastern Mediterranean contains petroleum reserves and is bordered by the coasts of Lebanon, Syria, Cyprus, and Israel?",
+    "answer": "Levantine Basin",
+    "validLetters": ["L"],
+    "round": 3,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "Which Canary Island is known for its volcanic landscape and was named after a Berber kingdom in North Africa?",
+    "answer": "Lanzarote",
+    "validLetters": ["L"],
+    "round": 3,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What cold-water ocean current originates in the Labrador Sea and flows southward along the eastern coast of North America?",
+    "answer": "Labrador Current",
+    "validLetters": ["L"],
+    "round": 3,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What lake on the border between Switzerland and Italy is known for its crescent shape and gives its name to a type of pasta?",
+    "answer": "Lugano",
+    "validLetters": ["L"],
+    "round": 3,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What physical principle states that an induced electric current opposes the change that produced it?",
+    "answer": "Lenz's Law",
+    "validLetters": ["L"],
+    "round": 3,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "Which membrane-bound organelle contains hydrolytic enzymes and is responsible for intracellular digestion?",
+    "answer": "Lysosome",
+    "validLetters": ["L"],
+    "round": 3,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What hypothetical medium did 19th-century physicists propose to explain the propagation of electromagnetic waves?",
+    "answer": "Luminiferous Aether",
+    "validLetters": ["L"],
+    "round": 3,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What phenomenon causes a liquid droplet to skate across a surface much hotter than its boiling point?",
+    "answer": "Leidenfrost Effect",
+    "validLetters": ["L"],
+    "round": 3,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "Which enzyme breaks down lactose into glucose and galactose in the small intestine?",
+    "answer": "Lactase",
+    "validLetters": ["L"],
+    "round": 3,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What mathematical transformation relates spatial and temporal coordinates between inertial reference frames in special relativity?",
+    "answer": "Lorentz Transformation",
+    "validLetters": ["L"],
+    "round": 3,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What type of white blood cell includes T cells and B cells and is central to adaptive immunity?",
+    "answer": "Lymphocyte",
+    "validLetters": ["L"],
+    "round": 3,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What thought experiment describes a hypothetical intellect that could predict the entire future from perfect knowledge of the present state?",
+    "answer": "Laplace's Demon",
+    "validLetters": ["L"],
+    "round": 3,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What is the rigid outer layer of the Earth comprising the crust and upper mantle?",
+    "answer": "Lithosphere",
+    "validLetters": ["L"],
+    "round": 3,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What diagnostic instrument measures plasma properties by analyzing currents collected on electrodes in ionized gas?",
+    "answer": "Langmuir Probe",
+    "validLetters": ["L"],
+    "round": 3,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What inactive N-terminal peptide is cleaved from pro-TGF-β to activate the cytokine?",
+    "answer": "Latency-Associated Peptide",
+    "validLetters": ["L"],
+    "round": 3,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "Which annual meteor shower, occurring in November, appears to radiate from the constellation Leo?",
+    "answer": "Leonid Meteor Shower",
+    "validLetters": ["L"],
+    "round": 3,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "Which Scottish footballer became the first player to score 50 goals in a single Premier League season in 2011-12?",
+    "answer": "Lyle Allison",
+    "validLetters": ["L"],
+    "round": 3,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "Which Polish striker won the FIFA The Best Men's Player award in 2020 while at Bayern Munich?",
+    "answer": "Lewandowski",
+    "validLetters": ["L"],
+    "round": 3,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What brand manufactures the official wooden baseball bat used in Major League Baseball?",
+    "answer": "Louisville Slugger",
+    "validLetters": ["L"],
+    "round": 3,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "Which Czechoslovak-American tennis player won eight Grand Slam singles titles and reached the US Open final four consecutive times in the 1980s?",
+    "answer": "Lendl, Ivan",
+    "validLetters": ["L"],
+    "round": 3,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What British social film-sharing website, founded in 2014, allows users to rate and review movies they've watched?",
+    "answer": "Letterboxd",
+    "validLetters": ["L"],
+    "round": 3,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "Which Hungarian journalist invented the ballpoint pen that bears his name in 1938?",
+    "answer": "Laszlo Biro",
+    "validLetters": ["L"],
+    "round": 3,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "Which British figurative painter, grandson of Sigmund Freud, was known for his unflinching portraits and became the Queen's portrait painter?",
+    "answer": "Lucian Freud",
+    "validLetters": ["L"],
+    "round": 3,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "Which American film director, known for 'Before' trilogy and 'Boyhood', is famous for his use of 12-year gaps between filming sequences?",
+    "answer": "Linklater",
+    "validLetters": ["L"],
+    "round": 3,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What musical term refers to a recurring melodic phrase associated with a particular character or idea in opera and film scores?",
+    "answer": "Leitmotif",
+    "validLetters": ["L"],
+    "round": 3,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What 19th-century American art movement emphasized light and atmosphere through subtle color gradations, exemplified by painters like James McNeill Whistler?",
+    "answer": "Luminism",
+    "validLetters": ["L"],
+    "round": 3,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "Which American actress rose to fame playing Blair Waldorf on 'Gossip Girl' and later starred in 'Unwanted' and various film roles?",
+    "answer": "Leighton Meester",
+    "validLetters": ["L"],
+    "round": 3,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What 2011 noir-style video game set in 1947 Los Angeles follows detective Cole Phelps and features extensive motion-capture technology?",
+    "answer": "L.A. Noire",
+    "validLetters": ["L"],
+    "round": 3,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  }
+]

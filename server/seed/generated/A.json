@@ -1,0 +1,2242 @@
+[
+  {
+    "text": "Who was the first Roman Emperor?",
+    "answer": "Augustus",
+    "validLetters": ["A"],
+    "round": 1,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "Which ancient civilization built the city of Tenochtitlan in Mexico?",
+    "answer": "Aztecs",
+    "validLetters": ["A"],
+    "round": 1,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "Which ancient Greek city-state was famous for its democracy?",
+    "answer": "Athens",
+    "validLetters": ["A"],
+    "round": 1,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "Which ancient conqueror was tutored by Aristotle?",
+    "answer": "Alexander the Great",
+    "validLetters": ["A"],
+    "round": 1,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What was the name of the Spanish fleet that attacked England in 1588?",
+    "answer": "Armada",
+    "validLetters": ["A"],
+    "round": 1,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What is the scientific study of past human societies through artifacts and remains?",
+    "answer": "Archaeology",
+    "validLetters": ["A"],
+    "round": 1,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What is someone called who murders an important person for political reasons?",
+    "answer": "Assassin",
+    "validLetters": ["A"],
+    "round": 1,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What were Britain, America, and the Soviet Union called during World War Two?",
+    "answer": "Allies",
+    "validLetters": ["A"],
+    "round": 1,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What were Germany, Italy, and Japan called during World War Two?",
+    "answer": "Axis",
+    "validLetters": ["A"],
+    "round": 1,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What ancient Roman structure carried water across valleys to cities?",
+    "answer": "Aqueduct",
+    "validLetters": ["A"],
+    "round": 1,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What were the main projectile weapons used by archers in medieval warfare?",
+    "answer": "Arrows",
+    "validLetters": ["A"],
+    "round": 1,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "Who was the Chancellor of Germany for 16 years until 2021?",
+    "answer": "Angela Merkel",
+    "validLetters": ["A"],
+    "round": 1,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What continental organization has 55 member states and is headquartered in Addis Ababa?",
+    "answer": "African Union",
+    "validLetters": ["A"],
+    "round": 1,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "Which country is both a continent and a nation governed as a federal democracy?",
+    "answer": "Australia",
+    "validLetters": ["A"],
+    "round": 1,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "Who was the pro-democracy leader of Myanmar and won the Nobel Peace Prize in 1991?",
+    "answer": "Aung San Suu Kyi",
+    "validLetters": ["A"],
+    "round": 1,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "Which South American country is home to the tango and Buenos Aires?",
+    "answer": "Argentina",
+    "validLetters": ["A"],
+    "round": 1,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What was the name of the racial segregation system in South Africa until the 1990s?",
+    "answer": "Apartheid",
+    "validLetters": ["A"],
+    "round": 1,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What is the name for a group of elected representatives who make laws?",
+    "answer": "Assembly",
+    "validLetters": ["A"],
+    "round": 1,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "Which European country shares borders with eight nations including Germany and the Czech Republic?",
+    "answer": "Austria",
+    "validLetters": ["A"],
+    "round": 1,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "Which international organization founded in 1961,  campaigns for human rights?",
+    "answer": "Amnesty International",
+    "validLetters": ["A"],
+    "round": 1,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What is the term for a monarch voluntarily giving up their throne?",
+    "answer": "Abdication",
+    "validLetters": ["A"],
+    "round": 1,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What is the title of a diplomat of the highest rank, sent by one sovereign nation to another as a permanent representative?",
+    "answer": "Ambassador",
+    "validLetters": ["A"],
+    "round": 1,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What is the largest continent by population?",
+    "answer": "Asia",
+    "validLetters": ["A"],
+    "round": 1,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What is the largest continent by area?",
+    "answer": "Africa",
+    "validLetters": ["A"],
+    "round": 1,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "Which mountain range forms the border between France and Italy?",
+    "answer": "Alps",
+    "validLetters": ["A"],
+    "round": 1,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What is the longest river in South America?",
+    "answer": "Amazon",
+    "validLetters": ["A"],
+    "round": 1,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What is the ocean that separates Europe from North America?",
+    "answer": "Atlantic Ocean",
+    "validLetters": ["A"],
+    "round": 1,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What is the longest mountain range in South America?",
+    "answer": "Andes Mountains",
+    "validLetters": ["A"],
+    "round": 1,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What is the mountain range that runs along the eastern coast of North America?",
+    "answer": "Appalachian Mountains",
+    "validLetters": ["A"],
+    "round": 1,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "Located between France and Spain, what is the smallest country in Europe?",
+    "answer": "Andorra",
+    "validLetters": ["A"],
+    "round": 1,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What is the ocean that surrounds the North Pole?",
+    "answer": "Arctic Ocean",
+    "validLetters": ["A"],
+    "round": 1,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What is the smallest unit of matter that retains the properties of an element?",
+    "answer": "Atom",
+    "validLetters": ["A"],
+    "round": 1,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What type of medicine kills bacteria and is used to treat infections?",
+    "answer": "Antibiotics",
+    "validLetters": ["A"],
+    "round": 1,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What is the scientific study of stars, planets, and space?",
+    "answer": "Astronomy",
+    "validLetters": ["A"],
+    "round": 1,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What is the study of the structure and parts of the human body?",
+    "answer": "Anatomy",
+    "validLetters": ["A"],
+    "round": 1,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What is the natural light display in Earth's sky, mostly seen in high-latitude regions and also known as the Northern Lights?",
+    "answer": "Aurora Borealis",
+    "validLetters": ["A"],
+    "round": 1,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "Which lightweight silver metal is commonly used in cans and foil?",
+    "answer": "Aluminum",
+    "validLetters": ["A"],
+    "round": 1,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What is a single-celled organism that can move and change shape?",
+    "answer": "Amoeba",
+    "validLetters": ["A"],
+    "round": 1,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What common painkiller is often used to relieve headaches and reduce fevers?",
+    "answer": "Aspirin",
+    "validLetters": ["A"],
+    "round": 1,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "Which ancient Greek mathematician discovered the principle of buoyancy while taking a bath?",
+    "answer": "Archimedes",
+    "validLetters": ["A"],
+    "round": 1,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What is the layer of gases that surrounds the Earth and protects life?",
+    "answer": "Atmosphere",
+    "validLetters": ["A"],
+    "round": 1,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What group of animals, including frogs and salamanders, live both in water and on land?",
+    "answer": "Amphibians",
+    "validLetters": ["A"],
+    "round": 1,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "Which American tennis player won eight Grand Slam titles and was known for his aggressive baseline game?",
+    "answer": "Andre Agassi",
+    "validLetters": ["A"],
+    "round": 1,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What fungal infection affecting the feet is commonly contracted in communal sports facilities like locker rooms?",
+    "answer": "Athlete's Foot",
+    "validLetters": ["A"],
+    "round": 1,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What Christian observance marks the beginning of Lent, 46 days before Easter?",
+    "answer": "Ash Wednesday",
+    "validLetters": ["A"],
+    "round": 1,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "Which London football club plays at the Emirates Stadium?",
+    "answer": "Arsenal",
+    "validLetters": ["A"],
+    "round": 1,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What sport involves shooting arrows at a target with a bow?",
+    "answer": "Archery",
+    "validLetters": ["A"],
+    "round": 1,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "Which tennis Grand Slam tournament is held annually in Melbourne?",
+    "answer": "Australian Open",
+    "validLetters": ["A"],
+    "round": 1,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "Which Birmingham-based football club has won the English top division seven times, most recently in 1981?",
+    "answer": "Aston Villa",
+    "validLetters": ["A"],
+    "round": 1,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What ancient Roman road connected Rome to Brindisi in southern Italy?",
+    "answer": "Appian Way",
+    "validLetters": ["A"],
+    "round": 2,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "Which Mesoamerican civilization was conquered by Hernán Cortés in the 16th century?",
+    "answer": "Aztec Empire",
+    "validLetters": ["A"],
+    "round": 2,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "At which 1415 battle did English archers defeat a much larger French force during the Hundred Years' War?",
+    "answer": "Agincourt",
+    "validLetters": ["A"],
+    "round": 2,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "Which 5th-century nomadic leader was known as 'the Scourge of God' and invaded Europe?",
+    "answer": "Attila the Hun",
+    "validLetters": ["A"],
+    "round": 2,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "Which conflict between 1775 and 1783 resulted in American independence from British rule?",
+    "answer": "American Revolution",
+    "validLetters": ["A"],
+    "round": 2,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What massive 12th-century temple complex in Cambodia was originally built as a Hindu shrine?",
+    "answer": "Angkor Wat",
+    "validLetters": ["A"],
+    "round": 2,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "From 1309 to 1377, one of the periods in history when it was not in Rome, in which French city was the papal court?",
+    "answer": "Avignon",
+    "validLetters": ["A"],
+    "round": 2,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "Which Italian city  believed to have secretly sheltered Jews during World War II, was also the birthplace of Saints Francis and Clare?",
+    "answer": "Assisi",
+    "validLetters": ["A"],
+    "round": 2,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "Which organization founded in 1967 to speed up economic growth and keep regional peace, has countries like Thailand, Indonesia, and Vietnam as members?",
+    "answer": "ASEAN",
+    "validLetters": ["A"],
+    "round": 2,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What was the first governing document of the United States, superseded by the Constitution in 1789?",
+    "answer": "Articles of Confederation",
+    "validLetters": ["A"],
+    "round": 2,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "Which breakaway region declared independence from Georgia in 1992, though it remains internationally unrecognized?",
+    "answer": "Abkhazia",
+    "validLetters": ["A"],
+    "round": 2,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What was the name of President Kennedy's economic aid program for Latin America, launched in 1961?",
+    "answer": "Alliance for Progress",
+    "validLetters": ["A"],
+    "round": 2,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "Who became the ninth Secretary-General of the United Nations in 2017?",
+    "answer": "António Guterres",
+    "validLetters": ["A"],
+    "round": 2,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "Which desert in Chile is one of the driest places on Earth?",
+    "answer": "Atacama Desert",
+    "validLetters": ["A"],
+    "round": 2,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "Which southern African country was formerly known as Portuguese West Africa?",
+    "answer": "Angola",
+    "validLetters": ["A"],
+    "round": 2,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "Which sea separates Italy from the Balkan Peninsula?",
+    "answer": "Adriatic Sea",
+    "validLetters": ["A"],
+    "round": 2,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What landlocked country in South Asia shares borders with Pakistan, Iran, and Tajikistan?",
+    "answer": "Afghanistan",
+    "validLetters": ["A"],
+    "round": 2,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What is the capital city of the Netherlands, famous for its canals and bicycles?",
+    "answer": "Amsterdam",
+    "validLetters": ["A"],
+    "round": 2,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "Which galaxy is closest to the Milky Way?",
+    "answer": "Andromeda Galaxy",
+    "validLetters": ["A"],
+    "round": 2,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What is the long projection of a nerve cell that transmits electrical signals away from the cell body?",
+    "answer": "Axon",
+    "validLetters": ["A"],
+    "round": 2,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What is an excessive immune response to a harmless substance called?",
+    "answer": "Allergy",
+    "validLetters": ["A"],
+    "round": 2,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What ancient practice attempted to turn base metals into gold and discover the elixir of life?",
+    "answer": "Alchemy",
+    "validLetters": ["A"],
+    "round": 2,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What is the SI unit of electric current, named after a French physicist?",
+    "answer": "Ampere",
+    "validLetters": ["A"],
+    "round": 2,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What neurodegenerative disease is characterized by progressive memory loss and cognitive decline?",
+    "answer": "Alzheimer's Disease",
+    "validLetters": ["A"],
+    "round": 2,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What is the name of the cricket Test series played between England and Australia, traditionally held every two years?",
+    "answer": "Ashes Series",
+    "validLetters": ["A"],
+    "round": 2,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "Which American cyclist was at the centre of a doping scandal that stripped him of seven Tour de France titles?",
+    "answer": "Lance Armstrong",
+    "validLetters": ["A"],
+    "round": 2,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What is the premier men's professional tennis circuit that replaced the Grand Prix circuit in 1990?",
+    "answer": "ATP Tour",
+    "validLetters": ["A"],
+    "round": 2,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What is the name of Liverpool Football Club's iconic home stadium in England?",
+    "answer": "Anfield",
+    "validLetters": ["A"],
+    "round": 2,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What is the nickname of the national rugby team famous for performing the haka before international matches?",
+    "answer": "All Blacks",
+    "validLetters": ["A"],
+    "round": 2,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "Which British tennis player won three Grand Slam titles and reached the Wimbledon final in 2012?",
+    "answer": "Andy Murray",
+    "validLetters": ["A"],
+    "round": 2,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What training method involves exercising at high elevation to increase oxygen-carrying capacity?",
+    "answer": "Altitude Training",
+    "validLetters": ["A"],
+    "round": 2,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "Will Ferrell plays a vain news anchor in which 2004 comedy film?",
+    "answer": "Anchorman",
+    "validLetters": ["A"],
+    "round": 2,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What is the name of the imaginative red-haired orphan in L.M. Montgomery's classic novel series?",
+    "answer": "Anne of Green Gables",
+    "validLetters": ["A"],
+    "round": 2,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "Who is the legendary British filmmaker known for psychological thrillers like 'Psycho' and 'Vertigo'?",
+    "answer": "Alfred Hitchcock",
+    "validLetters": ["A"],
+    "round": 2,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What Canadian indie rock band released the album 'Funeral' in 2004?",
+    "answer": "Arcade Fire",
+    "validLetters": ["A"],
+    "round": 2,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "Which American Pop artist famously created silkscreen prints of celebrities like Marilyn Monroe?",
+    "answer": "Andy Warhol",
+    "validLetters": ["A"],
+    "round": 2,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "Which French-Italian actor starred opposite Brigitte Bardot in 'And God Created Woman'?",
+    "answer": "Alain Delon",
+    "validLetters": ["A"],
+    "round": 2,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What 1999 drama directed by Sam Mendes won the Academy Award for Best Picture?",
+    "answer": "American Beauty",
+    "validLetters": ["A"],
+    "round": 2,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "Which Trojan prince escaped the fall of Troy and founded Rome?",
+    "answer": "Aeneas",
+    "validLetters": ["A"],
+    "round": 2,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What is the food of the Greek gods that grants immortality?",
+    "answer": "Ambrosia",
+    "validLetters": ["A"],
+    "round": 2,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "In Norse mythology, which realm is home to the light elves?",
+    "answer": "Alfheim",
+    "validLetters": ["A"],
+    "round": 2,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What technology overlays digital information onto a user's view of the real world?",
+    "answer": "Augmented Reality",
+    "validLetters": ["A"],
+    "round": 2,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "In sports, what official makes binding decisions on matters of rules and conduct?",
+    "answer": "Arbiter",
+    "validLetters": ["A"],
+    "round": 2,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What breed of rabbit is prized for its long, silky fur used in luxury garments?",
+    "answer": "Angora",
+    "validLetters": ["A"],
+    "round": 2,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What step-by-step procedure is used by computers to solve problems or perform calculations?",
+    "answer": "Algorithm",
+    "validLetters": ["A"],
+    "round": 2,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What almond-flavored Italian liqueur is often used in cocktails and desserts?",
+    "answer": "Amaretto",
+    "validLetters": ["A"],
+    "round": 2,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What punctuation mark is used to show possession or to indicate missing letters in contractions?",
+    "answer": "Apostrophe",
+    "validLetters": ["A"],
+    "round": 2,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "Which Persian empire, founded by Cyrus the Great, ruled from the 6th to 4th century BCE and was eventually conquered by Alexander?",
+    "answer": "Achaemenid Empire",
+    "validLetters": ["A"],
+    "round": 3,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "At which 1805 battle did Napoleon decisively defeat the Austro-Russian alliance despite being outnumbered?",
+    "answer": "Austerlitz",
+    "validLetters": ["A"],
+    "round": 3,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "Which Babylonian dynasty, lasting from 1894 to 1595 BCE, included the famous lawgiver Hammurabi?",
+    "answer": "Amorite Dynasty",
+    "validLetters": ["A"],
+    "round": 3,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "Which 1862 American Civil War battle, fought along a creek in Maryland, resulted in the bloodiest single day in U.S. military history?",
+    "answer": "Antietam",
+    "validLetters": ["A"],
+    "round": 3,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "Which Mauryan emperor of ancient India famously renounced violence after witnessing the suffering caused by his conquest of Kalinga?",
+    "answer": "Ashoka",
+    "validLetters": ["A"],
+    "round": 3,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What was the name of the devastating plague that swept through the Roman Empire between 165 and 180 CE during the reign of Marcus Aurelius?",
+    "answer": "Antonine Plague",
+    "validLetters": ["A"],
+    "round": 3,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What was the 1938 political union between Nazi Germany and Austria called?",
+    "answer": "Anschluss",
+    "validLetters": ["A"],
+    "round": 3,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "At which 31 BCE naval battle did Octavian defeat Mark Antony and Cleopatra, securing sole power in Rome?",
+    "answer": "Actium",
+    "validLetters": ["A"],
+    "round": 3,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What was the ancient Mesopotamian city-state that Sargon  made the center of history's first multi-ethnic empire?",
+    "answer": "Akkad",
+    "validLetters": ["A"],
+    "round": 3,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "Which Inca emperor was captured and executed by Spanish conquistador Francisco Pizarro in 1533?",
+    "answer": "Atahualpa",
+    "validLetters": ["A"],
+    "round": 3,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "At which Virginia courthouse did Robert E. Lee surrender to Ulysses S. Grant on April 9, 1865, effectively ending the American Civil War?",
+    "answer": "Appomattox",
+    "validLetters": ["A"],
+    "round": 3,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "Which Italian Prime Minister's doctrine of 1976 stated that Italy would not interfere in the internal affairs of Eastern Bloc countries?",
+    "answer": "Andreotti Doctrine",
+    "validLetters": ["A"],
+    "round": 3,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What 1993 peace agreement attempted to end the Rwandan Civil War and was signed in Tanzania?",
+    "answer": "Arusha Accords",
+    "validLetters": ["A"],
+    "round": 3,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "Which 1754 colonial plan proposed by Benjamin Franklin sought to unite the American colonies for mutual defense?",
+    "answer": "Albany Plan of Union",
+    "validLetters": ["A"],
+    "round": 3,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "In 1997, Kazakhstan relocated its capital from Akmola to which newly renamed city?",
+    "answer": "Astana",
+    "validLetters": ["A"],
+    "round": 3,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What name is given to the British strategy of making concessions to Hitler's demands to avoid war in the 1930s?",
+    "answer": "Appeasement",
+    "validLetters": ["A"],
+    "round": 3,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "In this landmark 1931 Supreme Court case, the Court ruled that civil forfeitures must not be excessive under the Eighth Amendment?",
+    "answer": "Austin v. United States",
+    "validLetters": ["A"],
+    "round": 3,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "Which Japanese UN envoy served as Special Representative to Cambodia from 1992 to 1993?",
+    "answer": "Akashi Masashi",
+    "validLetters": ["A"],
+    "round": 3,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What 1911 international crisis in Morocco nearly triggered a European war between France and Germany?",
+    "answer": "Agadir Crisis",
+    "validLetters": ["A"],
+    "round": 3,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "Which French region, known for its volcanic peaks and production of Michelin-starred restaurants, is the historical heart of the Massif Central?",
+    "answer": "Auvergne",
+    "validLetters": ["A"],
+    "round": 3,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "Spanning over 4,000 miles along the western coast of South America, what is the world's longest continental mountain range?",
+    "answer": "Andes",
+    "validLetters": ["A"],
+    "round": 3,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What is the geographic term for the peninsula comprising modern-day Turkey, historically the site of numerous ancient civilizations?",
+    "answer": "Anatolia",
+    "validLetters": ["A"],
+    "round": 3,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "Which sea separates Greece from Turkey and contains over 6,000 islands, though only about 200 are inhabited?",
+    "answer": "Aegean Sea",
+    "validLetters": ["A"],
+    "round": 3,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "At approximately 8,065 meters deep, which oceanic trench lies off the coast of Chile and is the deepest point in the South Pacific?",
+    "answer": "Atacama",
+    "validLetters": ["A"],
+    "round": 3,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "Which Italian mountain range forms the backbone of the Italian peninsula and includes the highest peak south of the Alps?",
+    "answer": "Apennine Mountains",
+    "validLetters": ["A"],
+    "round": 3,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What is the numerical value approximately equal to 6.022 × 10²³ that represents the number of particles in one mole of substance?",
+    "answer": "Avogadro's number",
+    "validLetters": ["A"],
+    "round": 3,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "Which German psychiatrist first identified the pathological hallmarks of the neurodegenerative disease that now bears his name?",
+    "answer": "Alois Alzheimer",
+    "validLetters": ["A"],
+    "round": 3,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "Which genus of mosquito is responsible for transmitting the malaria parasite Plasmodium to humans?",
+    "answer": "Anopheles",
+    "validLetters": ["A"],
+    "round": 3,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What unit of length, equal to 10⁻¹⁰ meters, is commonly used to measure atomic and molecular dimensions?",
+    "answer": "Angstrom",
+    "validLetters": ["A"],
+    "round": 3,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What high-energy phosphate molecule, abbreviated ATP, serves as the primary energy currency in cellular metabolism?",
+    "answer": "Adenosine triphosphate",
+    "validLetters": ["A"],
+    "round": 3,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What mathematical relationship describes the temperature dependence of reaction rate constants in chemical kinetics?",
+    "answer": "Arrhenius equation",
+    "validLetters": ["A"],
+    "round": 3,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "Which neurotransmitter, released at the neuromuscular junction, binds to receptors to trigger muscle contraction?",
+    "answer": "Acetylcholine",
+    "validLetters": ["A"],
+    "round": 3,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What philosophical principle suggests that the observed properties of the universe must be compatible with the existence of observers?",
+    "answer": "Anthropic principle",
+    "validLetters": ["A"],
+    "round": 3,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "Which synthetic radioactive element, with atomic number 85, is the rarest naturally occurring element on Earth?",
+    "answer": "Astatine",
+    "validLetters": ["A"],
+    "round": 3,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What metabolic pathway generates ATP in the absence of oxygen through processes like fermentation or lactate production?",
+    "answer": "Anaerobic respiration",
+    "validLetters": ["A"],
+    "round": 3,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What atomic phenomenon, in which an inner-shell electron vacancy is filled by an outer-shell electron with simultaneous emission of another electron, was discovered by Pierre Auger?",
+    "answer": "Auger effect",
+    "validLetters": ["A"],
+    "round": 3,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What is the name of the Test cricket series played between England and Australia?",
+    "answer": "Ashes",
+    "validLetters": ["A"],
+    "round": 3,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "In two-legged football ties, what term describes the combined score from both matches?",
+    "answer": "Aggregate",
+    "validLetters": ["A"],
+    "round": 3,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What are the organic compounds that link together to form proteins through peptide bonds?",
+    "answer": "Amino acids",
+    "validLetters": ["A"],
+    "round": 3,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "Which college football team pulled off a massive upset by defeating third-ranked Michigan 34-32 in 2007?",
+    "answer": "Appalachian State",
+    "validLetters": ["A"],
+    "round": 3,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What was the name of Barack Obama's $100 million fundraising initiative for Chicago public schools before his presidency?",
+    "answer": "Annenberg Challenge",
+    "validLetters": ["A"],
+    "round": 3,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "Which Spanish football club won the Copa del Rey seven times between 2009 and 2018?",
+    "answer": "Atletico Madrid",
+    "validLetters": ["A"],
+    "round": 3,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What critical concept argues that a film's director is the primary author responsible for its artistic merit?",
+    "answer": "Auteur Theory",
+    "validLetters": ["A"],
+    "round": 3,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "Which French theorist and playwright pioneered the Theatre of Cruelty in the early 20th century?",
+    "answer": "Antonin Artaud",
+    "validLetters": ["A"],
+    "round": 3,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  }
+]
