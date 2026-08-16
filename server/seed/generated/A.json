@@ -240,7 +240,7 @@
     }
   },
   {
-    "text": "Which South American country is home to the tango and Buenos Aires?",
+    "text": "Which South American country is home to the tango?",
     "answer": "Argentina",
     "validLetters": ["A"],
     "round": 1,
@@ -1712,23 +1712,7 @@
     }
   },
   {
-    "text": "Which Italian Prime Minister's doctrine of 1976 stated that Italy would not interfere in the internal affairs of Eastern Bloc countries?",
-    "answer": "Andreotti Doctrine",
-    "validLetters": ["A"],
-    "round": 3,
-    "category": "general",
-    "source": "manual",
-    "status": "active",
-    "submittedBy": null,
-    "stats": {
-      "timesUsed": 0,
-      "timesCorrect": 0,
-      "timesWrong": 0,
-      "successRate": 0
-    }
-  },
-  {
-    "text": "What 1993 peace agreement attempted to end the Rwandan Civil War and was signed in Tanzania?",
+    "text": "What 1993 peace agreement signed in Tanzania, attempted to end the Rwandan Civil War?",
     "answer": "Arusha Accords",
     "validLetters": ["A"],
     "round": 3,
@@ -1809,7 +1793,7 @@
   },
   {
     "text": "Which Japanese UN envoy served as Special Representative to Cambodia from 1992 to 1993?",
-    "answer": "Akashi Masashi",
+    "answer": "Yasushi Akashi",
     "validLetters": ["A"],
     "round": 3,
     "category": "general",
@@ -1904,22 +1888,6 @@
     }
   },
   {
-    "text": "At approximately 8,065 meters deep, which oceanic trench lies off the coast of Chile and is the deepest point in the South Pacific?",
-    "answer": "Atacama",
-    "validLetters": ["A"],
-    "round": 3,
-    "category": "general",
-    "source": "manual",
-    "status": "active",
-    "submittedBy": null,
-    "stats": {
-      "timesUsed": 0,
-      "timesCorrect": 0,
-      "timesWrong": 0,
-      "successRate": 0
-    }
-  },
-  {
     "text": "Which Italian mountain range forms the backbone of the Italian peninsula and includes the highest peak south of the Alps?",
     "answer": "Apennine Mountains",
     "validLetters": ["A"],
@@ -1986,22 +1954,6 @@
   {
     "text": "What unit of length, equal to 10⁻¹⁰ meters, is commonly used to measure atomic and molecular dimensions?",
     "answer": "Angstrom",
-    "validLetters": ["A"],
-    "round": 3,
-    "category": "general",
-    "source": "manual",
-    "status": "active",
-    "submittedBy": null,
-    "stats": {
-      "timesUsed": 0,
-      "timesCorrect": 0,
-      "timesWrong": 0,
-      "successRate": 0
-    }
-  },
-  {
-    "text": "What high-energy phosphate molecule, abbreviated ATP, serves as the primary energy currency in cellular metabolism?",
-    "answer": "Adenosine triphosphate",
     "validLetters": ["A"],
     "round": 3,
     "category": "general",
@@ -2112,22 +2064,6 @@
     }
   },
   {
-    "text": "What is the name of the Test cricket series played between England and Australia?",
-    "answer": "Ashes",
-    "validLetters": ["A"],
-    "round": 3,
-    "category": "general",
-    "source": "manual",
-    "status": "active",
-    "submittedBy": null,
-    "stats": {
-      "timesUsed": 0,
-      "timesCorrect": 0,
-      "timesWrong": 0,
-      "successRate": 0
-    }
-  },
-  {
     "text": "In two-legged football ties, what term describes the combined score from both matches?",
     "answer": "Aggregate",
     "validLetters": ["A"],
@@ -2146,38 +2082,6 @@
   {
     "text": "What are the organic compounds that link together to form proteins through peptide bonds?",
     "answer": "Amino acids",
-    "validLetters": ["A"],
-    "round": 3,
-    "category": "general",
-    "source": "manual",
-    "status": "active",
-    "submittedBy": null,
-    "stats": {
-      "timesUsed": 0,
-      "timesCorrect": 0,
-      "timesWrong": 0,
-      "successRate": 0
-    }
-  },
-  {
-    "text": "Which college football team pulled off a massive upset by defeating third-ranked Michigan 34-32 in 2007?",
-    "answer": "Appalachian State",
-    "validLetters": ["A"],
-    "round": 3,
-    "category": "general",
-    "source": "manual",
-    "status": "active",
-    "submittedBy": null,
-    "stats": {
-      "timesUsed": 0,
-      "timesCorrect": 0,
-      "timesWrong": 0,
-      "successRate": 0
-    }
-  },
-  {
-    "text": "What was the name of Barack Obama's $100 million fundraising initiative for Chicago public schools before his presidency?",
-    "answer": "Annenberg Challenge",
     "validLetters": ["A"],
     "round": 3,
     "category": "general",
