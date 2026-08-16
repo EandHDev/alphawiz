@@ -1,5 +1,21 @@
 [
   {
+    "text": "What breed of dog is also know as a German Shepherd?",
+    "answer": "Alsatian",
+    "validLetters": ["A"],
+    "round": 1,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
     "text": "Who was the first Roman Emperor?",
     "answer": "Augustus",
     "validLetters": ["A"],
