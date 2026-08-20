@@ -16,6 +16,38 @@
     }
   },
   {
+    "text": "What massive engineering project completed in 1970 spans the Nile River in Egypt, created Lake Nasser, and controls the river's annual floods?",
+    "answer": "Aswan Dam",
+    "validLetters": ["A"],
+    "round": 1,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What single, unblended spice gets its name because its flavour tastes like a combination of cinnamon, nutmeg, and cloves?",
+    "answer": "Allspice",
+    "validLetters": ["A"],
+    "round": 1,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
     "text": "Who was the first Roman Emperor?",
     "answer": "Augustus",
     "validLetters": ["A"],
@@ -880,6 +912,118 @@
     }
   },
   {
+    "text": "Which post-war British Prime Minister was described by Churchill as 'a modest man with much to be modest about'?",
+    "answer": "Clement Attlee?",
+    "validLetters": ["A"],
+    "round": 2,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "Which princess from Greek mythology, chained to a rock and rescued by Perseus, has a galaxy in our Local Group named after her?",
+    "answer": "Andromeda",
+    "validLetters": ["A"],
+    "round": 2,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What is the term for the portion of wine or whiskey that naturally evaporates from a wooden aging barrel during aging?",
+    "answer": "Angel's Share",
+    "validLetters": ["A"],
+    "round": 2,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What Latin term describes reasoning or knowledge that comes from theoretical deduction and pure reason rather than from observation or experience?",
+    "answer": "A Priori",
+    "validLetters": ["A"],
+    "round": 2,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What rich Dutch liqueur made from egg yolks, sugar, and brandy is the key ingredient in a Snowball cocktail?",
+    "answer": "Advocaat",
+    "validLetters": ["A"],
+    "round": 2,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "In Greek mythology, what sacred food of the gods did Tantalus attempt to steal from Mount Olympus, leading to his eternal punishment?",
+    "answer": "Ambrosia",
+    "validLetters": ["A"],
+    "round": 2,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "This convex, horseshoe-shaped flexible band or plastic strip is worn in the hair to hold back locks from the face. What is it called?",
+    "answer": "Alice Band",
+    "validLetters": ["A"],
+    "round": 2,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
     "text": "What massive 12th-century temple complex in Cambodia was originally built as a Hindu shrine?",
     "answer": "Angkor Wat",
     "validLetters": ["A"],
@@ -1074,22 +1218,6 @@
   {
     "text": "What is the capital city of the Netherlands, famous for its canals and bicycles?",
     "answer": "Amsterdam",
-    "validLetters": ["A"],
-    "round": 2,
-    "category": "general",
-    "source": "manual",
-    "status": "active",
-    "submittedBy": null,
-    "stats": {
-      "timesUsed": 0,
-      "timesCorrect": 0,
-      "timesWrong": 0,
-      "successRate": 0
-    }
-  },
-  {
-    "text": "Which galaxy is closest to the Milky Way?",
-    "answer": "Andromeda Galaxy",
     "validLetters": ["A"],
     "round": 2,
     "category": "general",
@@ -1424,22 +1552,6 @@
     }
   },
   {
-    "text": "What is the food of the Greek gods that grants immortality?",
-    "answer": "Ambrosia",
-    "validLetters": ["A"],
-    "round": 2,
-    "category": "general",
-    "source": "manual",
-    "status": "active",
-    "submittedBy": null,
-    "stats": {
-      "timesUsed": 0,
-      "timesCorrect": 0,
-      "timesWrong": 0,
-      "successRate": 0
-    }
-  },
-  {
     "text": "In Norse mythology, which realm is home to the light elves?",
     "answer": "Alfheim",
     "validLetters": ["A"],
@@ -1568,8 +1680,72 @@
     }
   },
   {
-    "text": "At which 1805 battle did Napoleon decisively defeat the Austro-Russian alliance despite being outnumbered?",
-    "answer": "Austerlitz",
+    "text": "Which god  in Greek mythology was the son of both Zeus and Hera?",
+    "answer": "Ares",
+    "validLetters": ["A"],
+    "round": 3,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "Born in Moscow in 1892, which naturalised French player defeated José Raúl Capablanca to become the 4th World Chess Champion in 1927?",
+    "answer": "Alexander Alekhine",
+    "validLetters": ["A"],
+    "round": 3,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What 1914 historical event saw the merging of the Northern and Southern Protectorates into a single geopolitical entity known as Nigeria?",
+    "answer": "Amalgamation",
+    "validLetters": ["A"],
+    "round": 3,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What is the nautical term for the direction toward the rear or stern of a ship?",
+    "answer": "Aft",
+    "validLetters": ["A"],
+    "round": 3,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
+    "text": "What is the term for a logical fallacy where someone attacks the character, motive, or trait of an opponent instead of addressing the actual substance of their argument?",
+    "answer": "Ad Hominem",
     "validLetters": ["A"],
     "round": 3,
     "category": "general",
@@ -1840,6 +2016,22 @@
     }
   },
   {
+    "text": "Which herbal alcoholic flavouring famous for its oversized paper label and yellow cap, is one likely to find in the cocktail Manhattan? ",
+    "answer": "Angostura Bitters",
+    "validLetters": ["A"],
+    "round": 3,
+    "category": "general",
+    "source": "manual",
+    "status": "active",
+    "submittedBy": null,
+    "stats": {
+      "timesUsed": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "successRate": 0
+    }
+  },
+  {
     "text": "Which French region, known for its volcanic peaks and production of Michelin-starred restaurants, is the historical heart of the Massif Central?",
     "answer": "Auvergne",
     "validLetters": ["A"],
@@ -2048,24 +2240,8 @@
     }
   },
   {
-    "text": "What metabolic pathway generates ATP in the absence of oxygen through processes like fermentation or lactate production?",
-    "answer": "Anaerobic respiration",
-    "validLetters": ["A"],
-    "round": 3,
-    "category": "general",
-    "source": "manual",
-    "status": "active",
-    "submittedBy": null,
-    "stats": {
-      "timesUsed": 0,
-      "timesCorrect": 0,
-      "timesWrong": 0,
-      "successRate": 0
-    }
-  },
-  {
-    "text": "What atomic phenomenon, in which an inner-shell electron vacancy is filled by an outer-shell electron with simultaneous emission of another electron, was discovered by Pierre Auger?",
-    "answer": "Auger effect",
+    "text": "Which German statesman and politician served as the first chancellor of West Germanyfrom 1949 to 1963?",
+    "answer": "Konrad Adenauer",
     "validLetters": ["A"],
     "round": 3,
     "category": "general",
